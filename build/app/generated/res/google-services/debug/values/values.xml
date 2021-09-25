@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">686761639766-r287pi2eo5teio6ortju1rk3033hmf5p.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">686761639766</string>
+    <string name="google_api_key" translatable="false">AIzaSyDuIEBCfrKiXL08k3Ya8ei67h14jzujjGo</string>
+    <string name="google_app_id" translatable="false">1:686761639766:android:996922570041ac7f1160f7</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDuIEBCfrKiXL08k3Ya8ei67h14jzujjGo</string>
+    <string name="google_storage_bucket" translatable="false">dronmobil-eeeec.appspot.com</string>
+    <string name="project_id" translatable="false">dronmobil-eeeec</string>
+</resources>
