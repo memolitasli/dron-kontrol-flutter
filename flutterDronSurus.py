@@ -31,20 +31,12 @@ print("Drona baglanildi...")
 
 
 firebaseConfig = {
-  'apiKey': "AIzaSyAJSH-e4rEWyEn1oJ0KQ6DTSqQCt0-Dlp8",
-  'authDomain': "dronmobil-eeeec.firebaseapp.com",
-  'databaseURL': "https://dronmobil-eeeec-default-rtdb.firebaseio.com",
-  'projectId': "dronmobil-eeeec",
-  'storageBucket': "dronmobil-eeeec.appspot.com",
-  'messagingSenderId': "686761639766",
-  'appId': "1:686761639766:web:288a524862a8e7f71160f7",
-  'measurementId': "G-CDP4YTTXRF",
-  'databaseURL' : "https://dronmobil-eeeec-default-rtdb.firebaseio.com/"
+
 }
 
 firebase = pyrebase.initialize_app(firebaseConfig)
 auth = firebase.auth()
-auth.sign_in_with_email_and_password("ekuneri1997@gmail.com","123456789")
+auth.sign_in_with_email_and_password("","")
 
 db = firebase.database()
 
